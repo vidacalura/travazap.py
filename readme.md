@@ -3,7 +3,7 @@
 Este código se resume a um robô em Selenium que entra em seu whatsapp
 e manda 1000 figurinhas com o intervalo de 0.8 segundos a um contato seu.
 
-:warning: **Use por sua conta e risco!** :warning:
+:warning: **USE POR SUA CONTA E RISCO!** :warning:
 
 O criador deste código **não** se responsabiliza por acidentes ou danos causados por este, incluindo erros no uso, bugs, ou mesmo banimento do usuário da plataforma do whatsapp.
 
